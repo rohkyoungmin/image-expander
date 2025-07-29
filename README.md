@@ -28,7 +28,7 @@ image_expander/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── assets/
+└── dist/main.exe
 ```
 
 ## 🛠 Use this project with .exe
