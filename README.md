@@ -37,5 +37,12 @@ pip install pyinstaller
 pyinstaller --noconsole --onefile main.py
 ```
 
+## 🚀 Or Download the .exe file directly!
+ 
+You can download the latest Windows executable below:
+
+👉 [Download image_expander.exe](https://github.com/rohkyoungmin/image-expander/releases/latest)
+
+
 ## 🔖 License
 MIT License
